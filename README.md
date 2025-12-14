@@ -9,7 +9,6 @@ Le notebook couvre tout le pipeline : **EDA → nettoyage → encodage → stand
 
 - `detection de fraude.ipynb` : notebook principal (pipeline complet)
 - `insurance_claims.csv` : dataset (à placer en local dans le dossier `data/`)
-
 ---
 
 ## Dataset
