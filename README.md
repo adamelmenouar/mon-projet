@@ -29,9 +29,6 @@ L’objectif principal est de :
 - Variable cible : `fraud_reported` (`Y` = fraude, `N` = non fraude)
 - Données anonymisées (identifiants masqués)
 
-> ⚠️ Si le dépôt est public, il est recommandé de **ne pas versionner** le dataset.  
-> Place-le localement dans : `data/insurance_claims.csv`
-
 ---
 
 ## Méthodologie
